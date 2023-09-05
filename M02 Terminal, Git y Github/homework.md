@@ -97,7 +97,7 @@ Ahora debes crear un archivo llamado "**_primerArchivo.txt_**". Revisa el comand
 
 Te invitamos, cada vez que termines una homework, a que subas tus avances a tu repositorio. ¿Recordemos cómo hacer esto?
 
-Deberás ejecutar estos comandos:
+asasDeberás ejecutar estos comandos:
 
 ```bash
 git add .
